@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.github/
+
+# Compiled files
+*.pyc
+*.pyo
