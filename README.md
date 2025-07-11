@@ -1,6 +1,6 @@
 # ReFaceX: AI-Powered Face Swapping & Enhancement Tool
 
-![ReFaceX Banner](https://via.placeholder.com/1200x400) <!-- Replace with your project banner -->
+![ReFaceX Banner](/images/brand.png) <!-- Replace with your project banner -->
 
 ReFaceX is a powerful AI-driven tool that allows you to seamlessly swap faces and enhance image quality with just one click! It leverages the latest advancements in face enhancement and swapping technologies, providing professional-level results in seconds. Whether you're working in film, advertising, or content creation, ReFaceX delivers both precision and speed.
 
@@ -42,7 +42,7 @@ ReFaceX is a powerful AI-driven tool that allows you to seamlessly swap faces an
     ├── images/                 # Sample/test images
     │   └── Image5.avif
     ├── model/                  # Pretrained models
-    │   ├── ReFaceX-SoC.onnx
+    │   ├── FaceFusion-SoC.onnx
     │   ├── PreTrainedRealESRGAN_x2.pth
     │   └── RealESRGAN_x4.pth
     ├── streamlit_app/          # Streamlit web app (optional)

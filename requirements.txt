@@ -6,12 +6,12 @@ gdown
 opencv-python
 numpy
 Pillow
-insightface
 onnxruntime
 streamlit
 
 # If you are using REAL-ESRGAN for enhancement
 realesrgan
+
 
 # If faceswap is your custom module, it is not pip-installable.
 # Ensure it is present locally in your project structure.
