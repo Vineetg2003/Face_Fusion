@@ -5,9 +5,9 @@
 ReFaceX is a powerful AI-driven tool that allows you to seamlessly swap faces and enhance image quality with just one click! It leverages the latest advancements in face enhancement and swapping technologies, providing professional-level results in seconds. Whether you're working in film, advertising, or content creation, ReFaceX delivers both precision and speed.
 
 ## 📌 Examples
-| Input | Enhanced | Swapped |
+| Input 1 | Input 2 | Swapped Ouput |
 |-------|----------|---------|
-| ![Input](images/Image5.avif) | ![Enhanced](https://via.placeholder.com/300) | ![Swapped](https://via.placeholder.com/300) |
+| ![Input](images/ip1.jpg) | ![Enhanced](images/ip2.jpg) | ![Swapped](images/op.jpg) |
 
 ## ✨ Features
 
@@ -103,7 +103,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📧 Contact
 For inquiries, contact:  
-📩 vineetg2003@example.com  
+📩 vineetg2003@gmail.com  
 🌐 [https://github.com/vineetg2003](https://github.com/vineetg2003)
 
 
